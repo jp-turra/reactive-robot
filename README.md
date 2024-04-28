@@ -12,3 +12,7 @@
   * `IR_KEY_DOWN`: Move the robot backward if in manual mode
   * `IR_KEY_LEFT`: Turn the robot left if in manual mode
   * `IR_KEY_RIGHT`: Turn the robot right if in manual mode
+
+# License
+
+This project is licensed under the terms of the GNU General Public License. See the file "LICENSE" for details.
